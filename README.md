@@ -1,4 +1,4 @@
-## 📈 What This Script Does
+##  What This Script Does
 
 This Python script tracks the **Bitcoin/Gold price ratio** (BTC/PAXG) using live data from CoinGecko.
 
